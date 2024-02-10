@@ -1,3 +1,11 @@
 Camara, Joenzsen Jonner H.
 
-I expect myself to be comfortable by using github to work with other people. I also expect myself to become more knowledgeable about CSS and HTML, and finally, I expect myself to fully grasp what CMSC 100 is really about.
+I expect myself to be comfortable by using github to work with other people.
+I also expect myself to become more knowledgeable about CSS and HTML, and finally,
+I expect myself to fully grasp what CMSC 100 is really about.
+
+Valles' Reply:
+    I agree that this course will introduce us to Git and GitHub, enabling us to use
+    them comfortably in our everyday work. Given that this course focuses on Web
+    Programming, I also expect to gain new knowledge about HTML, CSS, especially
+    JavaScript, and its framework that we can use in our future profession.
